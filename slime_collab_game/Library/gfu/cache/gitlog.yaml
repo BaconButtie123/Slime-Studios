@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-02-01T21:01:24.177+00:00
+  initializedAtString: 2021-02-01T21:01:22.994+00:00
+  log:
+  - commitID: 5ec04628a9b7e3cc74d309ade838931428ec3b96
+    mergeA: 
+    mergeB: 
+    authorName: Xena
+    authorEmail: 54689838+myzeze@users.noreply.github.com
+    commitEmail: 54689838+myzeze@users.noreply.github.com
+    commitName: Xena
+    summary: gitignore
+    description: gitignore file
+    timeString: 2021-01-28T11:39:51.000+00:00
+    commitTimeString: 2021-01-28T11:39:51.000+00:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\xenah\Documents\GitHub\slime\Slime-Studios\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
